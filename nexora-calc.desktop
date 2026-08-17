@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Nexora Calc
+Comment=Modern calculator by Nexora
+Exec=nexora-calc
+Icon=nexora-calc
+Terminal=false
+Type=Application
+Categories=Utility;Calculator;GTK;
+StartupNotify=true
