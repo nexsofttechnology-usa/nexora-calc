@@ -5,3 +5,6 @@ Curl:curl -LO https://github.com/nexsofttechnology-usa/nexora-calc/releases/down
 
 
 Pacman:sudo pacman -U nexora-calc-1.0.0-1-any.pkg.tar.zst
+
+
+Support Email:nexsofttechnology@gmail.com
